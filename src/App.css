@@ -1,0 +1,52 @@
+@import '~antd/dist/antd.css';
+
+.auth-banner {
+  /* background-image: url("./images/storefront-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat; */
+  background-color: #207dff;
+  color: white;
+  height: 100vh;
+}
+
+.vh100 {
+  min-height: 100vh !important;
+}
+
+.vw100 {
+  min-width: 100vw !important;
+}
+
+
+.switch-wrapper {
+  position: relative;
+}
+
+.switch-wrapper>div {
+  position: absolute;
+  width: 100% !important;
+}
+
+.layout-container {
+  min-width: 100vw;
+}
+
+.ant-carousel {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+/* .ant-carousel .slick-slide {
+  text-align: center;
+  width: 100px;
+  line-height: 100px;
+  background: grey;
+  overflow: hidden;
+} */
+.ant-table-thead {
+  background-color: #fff;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
