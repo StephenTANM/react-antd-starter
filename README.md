@@ -33,6 +33,8 @@ yarn start OR npm start
 - Change the login & signup url's in the sagas to your endpoint.
 - Router is not configured to automatically go to login or signup thats up to you.
 
+![](react-antd-starter.gif)
+
 ## Support & Contributing
 
 Feel create to open an issue or create a PR.
